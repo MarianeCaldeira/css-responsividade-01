@@ -1,0 +1,28 @@
+* {
+    background-color: #5F7285;
+    color: #fff;
+    border-color: #829DAD;
+}
+
+h1 {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 105px;
+    text-align: center;
+    color: #fff;
+    opacity: 50%;
+}
+
+h4 {
+    font-size: 22px;
+    text-align: center;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+figure {
+    text-align: center;
+}
